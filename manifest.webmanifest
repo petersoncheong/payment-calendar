@@ -1,0 +1,14 @@
+{
+  "name": "Payment Calendar",
+  "short_name": "Payments",
+  "description": "Scheduled payments by payee and invoice, in a calendar.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#0a64d6",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
